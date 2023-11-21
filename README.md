@@ -46,8 +46,8 @@
 ## Output
 
 
-### Name:
-### Register Number: 
+### Name: SOUVIK KUNDU
+### Register Number: 212221230105 
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
